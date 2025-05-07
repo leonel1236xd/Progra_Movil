@@ -31,7 +31,7 @@ export function Collapsible({ children, title }: PropsWithChildren & { title: st
     </ThemedView>
   );
 }
-//putin kiri
+
 const styles = StyleSheet.create({
   heading: {
     flexDirection: 'row',
